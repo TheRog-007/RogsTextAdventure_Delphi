@@ -1,0 +1,575 @@
+1
+0
+3
+0
+2
+It is a cold Monday morning. The rain beats heavily against the window, turning everything grey and miserable.
+You stand by your desk, Windows 11 is chunterring to itself (as it does) and you know it will be at least 15 minutes
+before its ready to be used.
+
+Now you know why SSDs where invented, if only you had one installed!
+
+The cheap metal table wobbles slightly under the vigour in which Windows 11 is mercilessly hammering the harddrive
+simply because you switched on the computer.
+
+Romours of a new version of Windows coming, soon usual promises, higher specd machine required to use the same version
+of Office as the last one...
+
+The bland magnolia walls of the office and the solitary strip light give an almost film noir feeling to the room.
+Another huge pile of Windows issues awaits you today, more joys with printers Windows forgets exist, domain networks
+suddenly becoming Public for no reason, shared network drives siddnely having incorrect credentials despite them being
+correct...
+
+
+
+There is a door to your west, and another to the south
+2
+0
+0
+1
+0
+The room is small and dimly lit. There are shelves with computers on, and a rack of software.
+ 
+Wow! You say out loud as you see a copy of Windows XP upgrade brand new and boxed. Those were the old days, networking
+was easy and reliable, network shares didn't suddenly not work, mind you Internet Explorer was obsessed with giving  
+the computer viruses..
+
+There are all sorts of odd-bod software on the shelf, even Windows 3.11 for workgroups original floppies! 
+ 
+
+ 
+ 
+
+   
+  
+  
+ 
+
+
+
+There is a door to your east 
+3
+1
+4
+0
+0
+You find yousrself in a brightly lit corridor. The walls are dull magnolia and the carpet a happy beige, the corridor  
+is empty, it seems to stretch into infinity. 
+ 
+The beigeness of it all seems strangely unsettling, there is a light humming noise like the sound inside a server room
+there seemed to be a barely noticeable flicker to the ceiling lights.  
+
+  
+ 
+
+  
+ 
+
+  
+  
+  
+ 
+
+
+
+There is a door to your south and to the north
+4
+3
+6
+0
+5
+You find yousrself deeper in the brightly lit corridor.   
+The corridor is empty, it seems to stretch into infinity. 
+ 
+The beigeness of it all seems strangely unsettling, there is a light humming noise like the sound inside a server room
+there seemed to be a barely noticeable flicker to the ceiling lights.   
+ 
+Looking at the walls of corridor show a strange newness and blandness to the walls...  
+
+  
+ 
+
+ 
+  
+   
+ 
+
+
+
+
+There is a door to your west, and another to the south and to the north
+5
+0
+7
+4
+0
+You find yourself in a small room with and a desk with a lamp on it with a typewriter! 
+
+There is also a small window
+
+The walls are bare, the same blandess from the corridor seemed to somehow infect this small room.   
+Seems odd that no one is about, for a Monday that is weird, the window allows the dim sun light to come in from outside 
+the faint hammering of the rain against the window acts like Musak giving a theme tune to your experience 
+  
+ 
+
+   
+ 
+
+
+
+
+
+
+
+There is a door to your east, and another to the south
+7
+5
+0
+0
+8
+You find yourself in an even smaller room.  
+
+In the corner of the room is an old beige server, it has an old 15 inch monitor on it. The monitor is on proudly
+displaying the words: NT4 Server SP6a
+
+In the front of the server a DDS tape drive is whirring away to itself, the server has an old DIN connected Cherry
+keyboard - no expense spared!
+  
+Above the server is a small rack with an Allied Telesyn 24 port hub flashing away.
+
+   
+ 
+
+
+
+
+
+
+
+There is a door to your north and to the west
+8
+0
+15
+7
+0
+The room is much bigger with two large desks with computers on it 
+
+You notice the first computer is on and the screen proudly displays a screensaver with Windows ME emblazened on it
+ 
+The second computer is also on and that displays a screen with: Windows Vista on it
+ 
+The Vista computer is chunterring to itself much like your Windows 11 computer, how far we have come!
+  
+In the room the temperature does seem noticeable higher than normal, or was that just an illusion? 
+
+   
+ 
+
+
+
+
+
+
+
+There is a door to the south and to the east
+15
+8
+16
+0
+0
+The lights in the room seem dimmer than the previous  
+
+There is a small desk with a lamp it, the lamp is on and pointing to the keyboard on the desk
+
+It is illuminating the letters IBM, the computer desktop is stained beige, you see the words SX-33 on the case, in a 
+nice comforting blue
+
+The screen is a beige 15 inch CRT (old skool!) on which it is a loading screen with: Windows 95 on it, a quick look
+suggests it has crashed on loading, the room seems quite warm..
+
+   
+ 
+
+
+
+
+
+
+
+There is a door to the north and the south
+16
+15
+0
+17
+0
+The room is darker than the previous  
+
+There is a lonely looking old desk against one wall, there is a small window above it, which seems blocked
+ 
+The desk has a computer on it with a very noisy fan, the tiny 14 inch monitor which boasts the words: EGA on it has a
+screen on it that displays:
+
+    C:\VER 
+ 
+    MS-DOS Version 3.30
+   
+    C:\
+
+On the disk is a huge pile disks proudly labelled: Windows 3.11 for Workgroups, does seem awfully hot in here..
+
+
+
+
+
+There is a door to the north and to the east
+17
+18
+0
+0
+16
+The room is dark and hot, the light flicker strangely, there is an old oak table with a very old looking computer on it
+
+A 14 inch CRT green screen monitor, the screen is a bit fuzzy and has a strange bar that loops around the display.
+ 
+On the display you can just about read:
+ 
+   SCO XENIX SYSTEM V
+  
+   Portions Copyright 1980-1989 Microsoft Corp.
+   Portions Copyright 1983-1989 The Santa Cruz Oeration, Inc. 
+   All rights reserved.
+ 
+   XENIX is a registered trademark of Microsoft Corporation.
+
+   #
+
+A strange noise is coming from the room to the north....
+
+
+There is a door to the north and the west
+18
+0
+0
+0
+0
+The room is large and brightly lit, the temperature is incredibly hot, you stagger into the room as the heat hits you  
+
+You see a huge desk at one end of the room with a massive 30 inch monitor which proudly displays a message:   
+ 
+   Windows 12 is here!
+    
+
+      Upgrade now - or die!
+ 
+      (ALL updates especially destructive updates are mandatory) 
+   
+ 
+You hear a loud cackling behind you, spinning round you see Bill Gates grinning menacingly at you.
+
+Time to upgrade BOY! He shouts at you, he grabs your arm with impossible strength, the heat and brightness of the room
+is draining your will to resist. A drill sounds somewhere near, with your vision blurring (it is sooooo hot!) you just
+about see Gates other arm swing a drill at your left temple
+
+Need to fit a USB port Gates shouts with glee, you feel faint and lose consciousness...when you awake the room is now 
+empty and over your vision is super-imposed: Windows 12 update installing please wait...   THE END
+6
+4
+9
+0
+0
+You find yousrself even deeper in the brightly lit corridor.   
+The corridor is empty, it seems to stretch into infinity just lie before. 
+ 
+The beigeness of it all seems strangely unsettling, there is a light humming noise like the sound inside a server room
+there seemed to be a barely noticeable flicker to the ceiling lights.   
+ 
+Looking at the walls of corridor show a strange newness and blandness to the walls...    
+
+Who designed this?
+
+   
+
+   
+ 
+
+
+
+
+
+There is a door to the north and to the south
+9
+6
+0
+10
+0
+The corridor bends to the right, in the corner is a water dispenser with goldfish in it!  
+
+There is a picture of Bill Gates on the wall holding a box with the words Windows 98SE on it, he seems happy..
+ 
+On the floor is a single floppy disk, it has a label and on it is writen in large text:
+ 
+  WINDOWS 2.0 PLUS GEM
+  
+ 
+
+   
+ 
+
+
+
+
+
+
+
+There is a door to the north and the east
+10
+11
+0
+13
+9
+In the corridor is a small desk with flyers on it 
+
+Old adverts for Windows 1.0 and DOS as well as a barely visible flyer with: OS/2 Warp written on it
+ 
+Strange there is no one here, wonder where all the employees are?
+ 
+
+  
+ 
+
+   
+ 
+
+
+
+
+
+
+
+There is a door to the north, the west and the east
+11
+0
+10
+12
+0
+The room is small and well lit, there is a small desk against the one wall, it has a small white-ish computer on it  
+you peer round to see the screen, the monitor has: Apple on it, the screen is displaying a program: Paint
+  
+This room has lots of pictures on the wall, all with various old computers on them, there is a musty smell to the 
+room and it reminds you of libraries
+ 
+Seems cooler in here than the other rooms, you notice a wastepaper basket in the corner, in it is a magazine, you can
+just about read the title: Linux Today
+ 
+
+   
+ 
+
+
+
+
+
+
+
+There is a door to the south and to the east
+12
+0
+13
+0
+11
+The room is large, with many desks on it, all with the monitors covered in a beige shroud 
+
+A loud hum fills the room, against one wall is a huge rack of rack mounted servers, next to it is a smaller rack with
+racks of CDs on it
+
+You notice that none of the CDs are labelled, what is on them? What is on those servers? Why isn't the room air cooled 
+with air conditioning?
+  
+Many questions fill your head, but where to find the answers? 
+
+   
+ 
+
+
+
+
+
+
+
+There is a door to the south and the west
+13
+12
+14
+0
+10
+This corridor never seems to end! Oh the blandness of it all...seems to drain the soul (bit like Windows updates)  
+
+The magnolia walls seem to blend seamlessly into each other, almost as though it is some sort of rats maze where the  
+maze goes round in circles endlessly....
+
+You see a blue arrow on the wall pointing north 
+
+  
+ 
+
+   
+ 
+
+
+
+
+
+
+
+There is a door to the north, to the south and the west
+14
+13
+19
+0
+0
+The corridor seems brighter, no less draining and dreary..  
+
+A voice sounds over some invisible public address system:  
+ 
+   Loyal employess, rejoice as Windows 12 is here!
+   Please upgrade now...devops special systems, CEO and longhorn supporters exempt
+  
+   Switch on, upgrade, update, update update!
+ 
+
+   
+ 
+
+
+
+
+
+
+
+There is a door to the north and to the south
+19
+0
+14
+0
+20
+You enter a small room (sounds familiar), the beige carpet looks new there is a small desk in the corner with an award  
+on it:
+  
+ 
+   Microsoft Award Continuing For Lack Of Development
+ 
+   1998 - 2024
+  
+   Goes To:
+
+   Windows Internet Security, Not Gone, Never Implemented
+ 
+
+
+
+
+
+
+
+There is a door to the south and to the west
+20
+21
+0
+19
+22
+Seems a lot cooler in the corridor now, lights seem brighter, strange combination.. 
+
+The wall has a huge poster onto which is written in huge letters: XBOX 360  
+ 
+Wow! You think, that takes me back, at least it did not suffer from the red light of death like the PS3, maybe it is 
+possible for Microsoft to make something that actually works and heck is even reliable?
+
+  
+ 
+
+   
+ 
+
+
+
+
+
+
+
+There is a door to the north, the east and to the west
+22
+0
+0
+20
+0
+You enter a small room, the lights are dim but you can see a small desk dimly lit with a failing lamp  
+
+On the desk you can see an old Xbox 360 controller, an 80 pin SCSI drive and small notepad, with some writing on it,  
+you lean forward and just about read the words: 
+
+  Q: How many Microsoft engineers does it take to change a lightbulb?
+
+  A; NONE, they make darkness the industry standard 
+ 
+
+You see an old Commodore 64 in the corner, looking at the old machines reminds you of how it was instrumental in having   
+an interest in programming develop inside you, and how many happy hours your waited for tape games to load.. 
+
+Plus the joy of 6510 machine code, your mind is filled with an old image:
+
+   LDA #0
+   STA $D020
+   RTS
+
+There is a door to the east
+21
+0
+20
+0
+23
+There is a lively air to the room, the room is filled with racks of awards, you look at them, strangely the awards have  
+have white labels over any writing, why?
+  
+Each corner of the room has a small table with a lamp on it, the lamps are on and the desks all have computers on them 
+the screens are off and a white tape with bright red writing is wrapped around each computer
+ 
+The tape says: TOP SECRET
+  
+On the floor is a book (why is it on the floor?) the front of the book says: 
+
+   The Road Ahead
+ 
+     Bill Gates
+
+
+
+
+
+
+There is a door to the south, and the west
+23
+0
+0
+0
+0
+The room is large and at the one end is a huge open patio door, you see a long desk along on wall, it is full of books
+and disks
+
+All the books and disks have the same word on them: LINUX
+
+Linux! You shout of course! No more chunterring, no more having the domain network randomly change to public so all
+network shares fail, no more piles of driver disks
+
+Wow! The Linux printer driver offers a HUGE range of options the Windows does not, you get giddy with the excitement of
+it all
+
+Windows, you remember needs insane system requirements just to run the SAME version of Office on your previous version
+of Windows, no more sudden slow downs, dodgy updates, mandatory updates... 
+
+Farewell poor Service Packs we knew them well and how we miss them!
+
+That is it, you shout, Linux could not only save increase our workload and massively increase efficiency, but could alos
+usher in a new era of world peace!
+
+Without a pause you grab as many Linux CDs as you can and flee out of the patio doors - THE END

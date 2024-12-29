@@ -1,0 +1,41 @@
+************************************************************************************************************************
+*    TTTTTTT     RRRRRRR     AAAAAAA     PPPPPPP     PPPPPPP     EEEEEEE     DDDDDD                                    *
+*       T        R     R     A     A     P     P     P     P     E           D     D                                   *
+*       T        R     R     A     A     P     P     P     P     E           D     D                                   *
+*       T        RRRRRRR     AAAAAAA     PPPPPPP     PPPPPPP     EEEEEEE     D     D                                   *
+*       T        RR          A     A     P           P           E           D     D                                   *
+*       T        R  R        A     A     P           P           E           D     D                                   *
+*       T        R    R      A     A     P           P           EEEEEEE     DDDDDD                                    *
+*                                                                                                                      *
+*                                                                                                                      *
+*                          IIIIIIIIII          N        N                                                              *
+*                              I               NN       N                                                              *
+*                              I               N N      N                                                              *
+*                              I               N  N     N                                                              *
+*                              I               N   N    N                                                              *
+*                              I               N    N   N                                                              *
+*                              I               N     N  N                                                              *
+*                              I               N      N N                                                              *
+*                              I               N       NN                                                              *
+*                          IIIIIIIII           N        N                                                              *
+*                                                                                                                      *
+*                                                                                                                  O O *
+*   M          M     IIIIIII     CCCCCCC     RRRRRRR     OOOOOOO     SSSSSSS     OOOOOOO     FFFFFFF     TTTTTTT   O O *
+*   MM        MM        I        C           R     R     O     O     S           O     O     F              T      O O *
+*   M  M     M M        I        C           R     R     O     O     S           O     O     F              T      O O *
+*   M   M   M  M        I        C           RRRRRRR     O     O     SSSSSSS     O     O     FFFFFFF        T      O O *
+*   M    M M   M        I        C           RR          O     O           S     O     O     F              T          *
+*   M     M    M        I        C           R  R        O     O           S     O     O     F              T      O O *
+*   M          M     IIIIIII     CCCCCCC     R    R      OOOOOOO     SSSSSSS     OOOOOOO     F              T      O O *
+*                                                                                                                      *
+*                                                                                                                      *
+*                          OOOOOOOOOOO                                                                                 *
+*                          O         O               --------------------------------------------------                *
+*                          O         O----\          |    Reliability.exe caused an exception error   |                *
+*                          OOOOOOOOOOO     \---------|    in kernel32.dll luckily for you this isnt   |                *
+*                              O O                   |    caused by a virus - we did it!              |                *
+*                       O =============  O           --------------------------------------------------                *
+*                       O ============== O                                                                             *
+*                       OOOOOOOOOOOOOOOOOO                                                                             *
+*                                                                                                                      *
+************************************************************************************************************************

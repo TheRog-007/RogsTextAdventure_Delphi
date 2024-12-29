@@ -1,0 +1,41 @@
+************************************************************************************************************************
+*                                                                                                                      *
+*    RRRRRRRRRRRRRRRR       OOOOOOOOOOOOOOO     GGGGGGGGGGGGGG          EEEEEEEEEEEEEEEEEE      RRRRRRRRRRRRRRR        *
+*    R              R       O             O     G                       E                       R             R        *
+*    R              R       O             O     G                       E                       R             R        *
+*    R              R       O             O     G                       E                       R             R        *
+*    R              R       O             O     G                       E                       R             R        *
+*    R              R       O             O     G                       E                       R             R        *
+*    R              R       O             O     G                       E                       R             R        *
+*    RRRRRRRRRRRRRRR        O             O     G       GGGGGGGGGGG     EEEEEEEEEEEEEEEEEE      RRRRRRRRRRRRRRR        *
+*    R R                    O             O     G            G          E                       RR                     *
+*    R   R                  O             O     G            G          E                       R  R                   *
+*    R     R                O             O     G            G          E                       R    R                 *
+*    R       R              O             O     G            G          E                       R      R               *
+*    R         R            O             O     G            G          E                       R        R             *
+*    R           R          O             O     G            G          E                       R          R           *
+*    R             R        OOOOOOOOOOOOOOO     GGGGGGGGGGGGGG          EEEEEEEEEEEEEEEEEE      R            R         *
+*                                                                                                                      *
+*                                                                                                                      *
+*                SSSSSSSSSSSSSSSS       OOOOOOOOOOOOOOO      FFFFFFFFFFFFFFF     TTTTTTTTTTTTTTTTTT                    *
+*                S                      O             O      F                            T                            *
+*                S                      O             O      F                            T                            *
+*                S                      O             O      F                            T                            *
+*                S                      O             O      F                            T                            *
+*                S                      O             O      F                            T                            *
+*                SSSSSSSSSSSSSSSS       O             O      FFFFFFFFFFFFFFF              T                            *
+*                               S       O             O      F                            T                            *
+*                               S       O             O      F                            T                            *
+*                               S       O             O      F                            T                            *
+*                               S       O             O      F                            T                            *
+*                               S       O             O      F                            T                            *
+*                SSSSSSSSSSSSSSSS       OOOOOOOOOOOOOOO      F                            T                            *
+*                                                                                                                      *
+*           PPPPPPPP     RRRRRRR     EEEEEEE     SSSSSSS     EEEEEEE     N      N     TTTTTTT     SSSSSSS              *
+*           P      P     R     R     E           S           E           N N    N        T        S                    *
+*           PPPPPPPP     RRRRRRR     E           S           E           N   N  N        T        S                    *
+*           P            RR          EEEEEEE     SSSSSSS     EEEEEEE     N    N N        T        SSSSSSS              *
+*           P            R  R        E                 S     E           N     NN        T              S              *
+*           P            R    R      EEEEEEE     SSSSSSS     EEEEEEE     N      N        T        SSSSSSS              *
+*                                                                                                                      *
+************************************************************************************************************************
